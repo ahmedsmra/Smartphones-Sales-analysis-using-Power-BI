@@ -1,5 +1,8 @@
 # 🚀 Smartphones Sales Analysis using Power BI 📊📱
 
+![Smart phones](Smart phones.png)
+
+
 Excited to share my latest data analysis project using Power BI, where I explored over 900 smartphone models to uncover insights into pricing, features, and trends!
 
 ---
