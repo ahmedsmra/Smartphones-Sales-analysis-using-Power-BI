@@ -1,4 +1,4 @@
-# 🚀 Smartphones Sales: Product Analysis Project using Power BI 📊📱
+# 🚀 Smartphones Sales Analysis using Power BI 📊📱
 
 Excited to share my latest data analysis project using Power BI, where I explored over 900 smartphone models to uncover insights into pricing, features, and trends!
 
